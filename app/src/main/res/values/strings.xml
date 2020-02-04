@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Paractice</string>
+    <string name="money">Money</string>
+    <string name="showtag">show tag</string>
+    <string name="ViewMoney">$0.00</string>
+    <string name="your_remaning_balance_is">Your Remaning Balance is:</string>
+    <string name="welcome_to_hbl">Welcome to HBL</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="deposit">Deposit</string>
+    <string name="button">Button</string>
+</resources>
